@@ -1,0 +1,11 @@
+numpy==1.18.1
+tensorflow==1.15
+tensorlayer
+tf_slim
+tensorflow_probability==0.10.0
+pandas==1.0.1
+sklearn==0.24.2
+spacy
+keras==2.3.1
+gensim==3.5.0
+bert-tensorflow=1.0.1
